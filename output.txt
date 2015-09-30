@@ -1,0 +1,21 @@
+<CACoJjrFWyfF2oGdwUXNxMbD=7kCjqBC4kiMru8sNzvm3Jxe7_A@mail.gmail.com>,"Unfortunately, this Friday is really bad as I'm in SF all day for meetings.
+Miss Moneypenny (CC'd) can help find us a time.
+
+Best,
+John Smith
+CEO, Company <http://www.company.com>, Inc.
+LinkedIn <http://www.linkedin.com/in/joesmith> | Google+
+<http://www.google.com/+joesmith> | Twitter
+<http://www.twitter.com/joesmith>
+
+-----------------
+ Separate Structure
+-----------------
+{Date : Wed, Mar 18, 2015 at 1:43 PM
+From : other.person@gmail.com
+Text : 	
+LMK if this works for youJohn / Other CoffeeJohn's Cell: +11111111111We're in suite 100. See you soon!*When*Fri Mar 20, 2015 4pm =E2=80=93 5pm Pacific Time*Where*520 San Antonio Rd, Fantasy land, CA 11111, USA (map<https://maps.google.com/maps?q=place>)*Video call*https://plus.google.com/hangouts/_/company.com/john-other<https://plus.google.com/hangouts/_/company.com/john-other?hceid=3DYW5=
+raXRAcXVldHRyYS5jb20.j6h929r6bion34q70qleespjgo>*Who*=E2=80=A2John Smith - organizer=E2=80=A2Other person
+"
+
+}

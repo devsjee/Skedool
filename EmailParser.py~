@@ -47,8 +47,42 @@ class EmailParser:
 				f.write("From :"+ str(From_tokenizer.tokenize(text)) +"\n");
 				f.write(text)
 	
+>>>>>>> 4307cbb24499a219fc3782a51fccca045f2f4819
 			index+=1
 
 	
 			
+		
+<<<<<<< HEAD
+		'''#rem
 
+oving the '>' marker from trailing mail content
+		if len(parts) > 1:
+			trailing=re.split(r'\n>[\s|>]',parts[2])
+
+			trailing = ''.join(trailing)
+						
+			return parts[0],parts[1]+trailing
+
+		else:
+			return parts[0],''
+		'''
+
+
+	'''def extract_features(self):
+		
+		#extracts the Date content from header of contained reply
+		try:
+			f.write("Date : "+re.search('[A-Za-z0-9:\s,]+(AM|PM)',parts[1]).group(0)+ "\n");
+		except:
+			f.write("Date : Not available\n");
+
+
+		#extracts the sender details from header of contained reply
+		try	:
+			f.write('From : '+re.search('[A-Za-z0-9._]+@([a-zA-Z].)+([a-zA-Z])+',parts[1]).group(0) + '\n')
+		except:
+			f.write("From : Not available\n")
+	'''
+=======
+>>>>>>> 4307cbb24499a219fc3782a51fccca045f2f4819
